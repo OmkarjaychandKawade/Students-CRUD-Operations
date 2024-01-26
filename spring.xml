@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans SYSTEM "Spring.dtd" >
+<beans>
+
+<bean class="com.demo.bean.Students" id="studs">
+
+<property name="id" value="101"></property>
+<property name="std" value="1"></property>
+<property name="name" value="Omkar"></property>
+<property name="email" value="okawa123@gmail.com"></property>
+
+</bean>
+
+
+
+</beans>
